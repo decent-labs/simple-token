@@ -1,0 +1,8 @@
+{
+  "name": "simple-token",
+  "version": "0.1.0",
+  "repository": "https://github.com/decentorganization/simple-token",
+  "author": "Adam Gall",
+  "license": "MIT",
+  "dependencies": {}
+}
