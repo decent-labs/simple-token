@@ -5,6 +5,7 @@
   "author": "Adam Gall",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^6.2.0",
     "truffle": "^5.0.0"
   }
 }
