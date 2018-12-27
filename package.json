@@ -4,7 +4,8 @@
   "repository": "https://github.com/decentorganization/simple-token",
   "author": "Adam Gall",
   "license": "MIT",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "dotenv": "^6.2.0",
     "truffle": "^5.0.0"
   }
