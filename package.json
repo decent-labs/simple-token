@@ -1,6 +1,9 @@
 {
   "name": "simple-token",
   "version": "0.1.0",
+  "scripts": {
+    "test": "scripts/test.sh"
+  },
   "repository": "https://github.com/decentorganization/simple-token",
   "author": "Adam Gall",
   "license": "MIT",
@@ -9,6 +12,8 @@
     "chai": "^4.1.2",
     "chai-bignumber": "^2.0.2",
     "dotenv": "^6.2.0",
+    "ganache-cli": "6.1.8",
+    "pify": "^4.0.1",
     "truffle": "^5.0.0"
   }
 }
