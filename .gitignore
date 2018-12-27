@@ -24,7 +24,6 @@ blockchain/history
 
 #truffle
 .tern-port
-yarn.lock
 package-lock.json
 
 # End of https://www.gitignore.io/api/soliditytruffle
